@@ -17,7 +17,7 @@
 	6. IM then pushes the merged changes to main repository.
 
 
-
+![distributed_workflow](/image/distributed_workflow.png)
 
 
 
