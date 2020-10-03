@@ -18,7 +18,8 @@
 
 
 ![distributed_workflow](/image/distributed_workflow.png)
-
+Source: Git homepage documentation
+> https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 
 
 ## Parts
