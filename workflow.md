@@ -17,6 +17,7 @@
 	6. IM then pushes the merged changes to main repository.
 
 
+
 ![distributed_workflow](/image/distributed_workflow.png)
 Source: Git homepage documentation
 > https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
@@ -32,7 +33,7 @@ Source: Git homepage documentation
 | **Backend Developer**    | <i>jaeha-Lee, junho-Lee</i>           |
 
 
-
+test
 
 ## Visual Representation
 
