@@ -12,7 +12,7 @@
 
 	4. Request 'IM' to pull from new repository
 
-	5. 'IM' remotely adds the contributor's repository and merges it into 	the local (develop) branch
+	5. 'IM' remotely adds the contributor's repository and merges it into the local (develop) branch
 
 	6. IM then pushes the merged changes to main repository.
 
@@ -33,7 +33,6 @@ Source: Git homepage documentation
 | **Backend Developer**    | <i>jaeha-Lee, junho-Lee</i>           |
 
 
-test
 
 ## Visual Representation
 
